@@ -1,2 +1,2 @@
 # DSA-Lab1
-this is first lab
+This repository contains C++ programming and testing exercises.
